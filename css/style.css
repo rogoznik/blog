@@ -162,4 +162,7 @@ header {
         width: auto;
         margin-right: 0;
     }
+    .conteiner, .conteiner-content {
+        width: 85%;
+    }
 }
