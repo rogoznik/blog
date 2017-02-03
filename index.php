@@ -38,10 +38,13 @@
             <div class="content-wrapper">
                 
                 <div class="article-preview-conteiner">
-                    <div><img class="article-picture" src="img/1.jpg" alt=""></div>
+                    <img class="article-picture" src="img/1.jpg" alt="">
                     <div class="container-article-head">
-                        <div class="article-date"><p>2 FEV</p></div>
-                        <div class="article-head"><p>fdgsdfgdfsgsdfgsdfg</p></div>
+                        
+                        <div class="article-head">
+                            <div class="article-date">2 FEV</div>
+                            <h3><a href="#">Vestibulum Ligula</a></h3>
+                        </div>
                         <div class="article-preview-text">
                             <p>Morbi vel nunc ut felis fermentum eleifend. Nullam ut porta metus. Curabitur varius elementum nunc, et ultrices sem tincidunt ac. Phasellus feugiat lobortis sapien, at condimentum neque auctor sed. Donec consectetur quam sit amet orci pharetra sit amet pharetra purus interdum.</p>
                         </div>
@@ -51,7 +54,15 @@
                 </div>
 
                 <div class="side-bar">
-                    <div class="content-side-bar">Cras sit amet nibh libero, in gravida nulla.</div>
+                    <div class="content-side-bar">
+                        <div class="block-search">
+                            <form action="#">
+                                <h3>Поиск</h3>
+                                <input class="search" type="text" placeholder="Текст для поиска">
+                                <input type="submit" class="search-submit" value="Поиск">
+                            </form>
+                        </div>
+                    </div>
                 </div> 
             </div>
                        
