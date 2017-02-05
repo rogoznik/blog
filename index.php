@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="css/style.css">
-    <title>My Blog</title>
+    <title>Blog</title>
 </head>
 
 <body>
@@ -43,10 +43,10 @@
                         
                         <div class="article-head">
                             <div class="article-date">2 FEV</div>
-                            <h3><a href="#">Vestibulum Ligula</a></h3>
+                            <h3><a href="#">Заголовок статьи</a></h3>
                         </div>
                         <div class="article-preview-text">
-                            <p>Morbi vel nunc ut felis fermentum eleifend. Nullam ut porta metus. Curabitur varius elementum nunc, et ultrices sem tincidunt ac. Phasellus feugiat lobortis sapien, at condimentum neque auctor sed. Donec consectetur quam sit amet orci pharetra sit amet pharetra purus interdum.</p>
+                            <p>Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст Текст.</p>
                         </div>
                     </div>
                     <div class="article-block-like"></div>
@@ -67,6 +67,8 @@
             </div>
                        
         </div>
+
+        <footer><p>Все права защищены</p></footer>
 
     </div>
 

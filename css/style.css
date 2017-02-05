@@ -217,7 +217,23 @@ header {
 
 /*------------END content------------*/
 
-@media all and (max-width: 1024px) {
+/*------------FOOTER------------*/
+
+footer{
+    height: 150px;
+    background: #0c1b25;
+    margin-top: 15px;
+    clear: both;
+    color: #ffffff;
+    line-height: 150px;
+    text-align:center;
+}
+
+/*------------END FOOTER------------*/
+
+
+
+@media all and (max-width: 1200px) {
     .conteiner, .conteiner-content {
         width: 90%;
     }
