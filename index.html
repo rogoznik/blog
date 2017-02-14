@@ -58,8 +58,7 @@
                         <div class="block-search">
                             <form action="#">
                                 <h3>Поиск</h3>
-                                <input class="search" type="text" placeholder="Текст для поиска">
-                                <input type="submit" class="search-submit" value="Поиск">
+                                <input class="search" type="search" placeholder="Текст для поиска">
                             </form>
                         </div>
                     </div>

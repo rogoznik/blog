@@ -123,7 +123,7 @@ header {
 
 .article-preview-conteiner {
     width: 60%;
-    margin-right: 20px;
+    /*margin-right: 20px;*/
     float: left;    
    
 }
@@ -237,9 +237,12 @@ footer{
     .conteiner, .conteiner-content {
         width: 90%;
     }
+    .side-bar {
+        width: 38%;
+    }
 }
 
-@media all and (max-width: 710px) {
+@media all and (max-width: 820px) {
     .article-preview-conteiner, .side-bar {
         float: none;
         width: auto;
@@ -247,5 +250,8 @@ footer{
     }
     .conteiner, .conteiner-content {
         width: 100%;
+    }
+    .article-preview-text {
+        padding: 5px;
     }
 }
